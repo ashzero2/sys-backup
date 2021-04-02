@@ -1,6 +1,6 @@
 # Dots - Backup [WIP]
 
-A simple python script to take backup of application config files . This script will only work on **unix** based distros which follows **xdg-home** structure
+A simple python script to take backup of application config files. Sorry but this is messy i worked on this to learn python. This script will only work on **unix** based operating systems which follows **xdg-home** structure.
 
 ## Usage
 
