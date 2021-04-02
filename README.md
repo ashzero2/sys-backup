@@ -15,4 +15,4 @@ where options can be
   
 ## To-Do
 - [x] Finish uploading backup to github
-- [ ] restore from github
+- [ ] Add restore from github
